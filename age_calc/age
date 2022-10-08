@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+int age,year,sum;
+
+
+printf("the world is crazy");
+return (0);
+}
